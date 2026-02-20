@@ -2,21 +2,5 @@
   "pack": {
     "description": "the incomplete shenanigans datapack",
     "pack_format": 15
-  },
-    "overlays": {
-    "entries": [
-      {
-        "formats": [18,26],
-        "directory": "1.20.2-1.20.4"
-      },
-      {
-        "formats": 41,
-        "directory": "1.20.5-1.20.6"
-      },
-      {
-        "formats": 48,
-        "directory": "1.21"
-      }
-    ]
   }
 }
